@@ -26,7 +26,7 @@ BookGenerator — это десктопное приложение с графи
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/BookGenerator.git
+   git clone https://github.com/alex89731/BookGenerator.git
    cd BookGenerator
    ```
 2. Создайте виртуальное окружение (рекомендуется) и установите зависимости:
